@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+<!-- ![Banner](Banner.png) -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://full-stack-website12.herokuapp.com/">Manish Chhetri</a></h1>
 <h3>I am a <b> Full stack developer </b> who loves coding and build productive sites</h3>
