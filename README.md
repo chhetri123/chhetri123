@@ -13,7 +13,8 @@
 
 - 📫 How to reach me [Facebook](https://www.facebook.com/ChhetriRocks15) |
   [Instagram](https://www.instagram.com/chhetri_monu_1/) |
-  [LinkedIn](https://www.linkedin.com/in/chhetri-don-5bb9391aa/)
+  [LinkedIn](https://www.linkedin.com/in/chhetri-don-5bb9391aa/) |
+  [YouTube](https://www.youtube.com/channel/UCFbbHb96x4juo4AhGtlz8Iw)
 
 - ⚡ Fun fact **I like coding as long as the internet works 😂**
 
