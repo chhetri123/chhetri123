@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Data Structure And Algorithm** and also ** Graphics😄**
+- 🌱 I’m currently learning **Data Structure And Algorithm** and also **Graphics😄**
 
 - 💬 Ask me about **Javascript and fullStack stuff**
 
