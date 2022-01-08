@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://full-stack-website12.herokuapp.com/">Manish Chhetri</a></h1>
 <h3>I am a <b> Full stack developer </b> who loves coding and build productive sites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhetri123&label=Profile%20views&color=0e75b6&style=flat" alt="ebraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhetri123&label=Profile%20views&color=0e75b6&style=flat" alt="manish chhetri" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
