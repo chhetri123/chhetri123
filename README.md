@@ -22,6 +22,8 @@
 
 - 😄 Pronouns:(he/him)
 
-[![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhetri123&theme=dracula)]
+![Manish's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhetri123&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Chhetri123's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhetri123&show_icons=true&theme=omni)
