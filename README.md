@@ -1,7 +1,7 @@
 <!-- ![Banner](Banner.png) -->
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="[Linkedin](https://www.linkedin.com/in/chhetri123/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/chhetri123/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <a href="https://manish-chhetri.netlify.app/">Manish Chhetri</a></h1></p>
@@ -19,7 +19,7 @@
 - 💬 Ask me about **Javascript and fullStack stuff**
 - 📫 How to reach me [Facebook](https://www.facebook.com/ChhetriRocks15) |
   [Instagram](https://www.instagram.com/chhetri_monu_1/) |
-  [LinkedIn](https://www.linkedin.com/in/chhetri-don-5bb9391aa/) |
+  [LinkedIn](https://www.linkedin.com/in/chhetri123/) |
   [YouTube](https://www.youtube.com/channel/UCFbbHb96x4juo4AhGtlz8Iw)
 - ⚡ Fun fact **I like coding as long as the internet works 😂**
 - 😜 NickName : **ChhetriRocks💥**
