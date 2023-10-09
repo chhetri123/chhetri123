@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/chhetri123/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <a href="https://manish-chhetri.netlify.app/">Manish Chhetri</a></h1></p>
+<h1 align="center">Hi I'm <a href="https://manish-chhetri.netlify.app/">Manish Chhetri</a></h1></p>
  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"  /></p>
  
  <h2 align="center">:woman_technologist: About Me</h2>
