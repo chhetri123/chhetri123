@@ -50,17 +50,12 @@
 
 <br />
 <h2 align="center">🔥 &nbsp; My Stats : </h2>
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=chhetri123">
+<div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhetri123&theme=shades-of-purple&hide_border=false" height="150" alt="stats graph"  />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri123">
+</div >
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri123&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
-  </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chhetri123&show_icons=true&theme=omni" alt="Chhetri123's GitHub stats" />
