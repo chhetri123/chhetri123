@@ -50,15 +50,15 @@
 
 <br />
 <h2 align="center">🔥 &nbsp; My Stats : </h2>
-  
+
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=chhetri123&theme=dark" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=chhetri123">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhetri123&theme=shades-of-purple&hide_border=false" height="150" alt="stats graph"  />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri123&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri123">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhetri123&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
   </a>
 </p>
 
